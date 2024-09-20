@@ -1,5 +1,5 @@
 # Resumo do Lab - Localizando Serviços por Categoria
-## Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab no Microsoft Azure Essentials, fornecido pela DIO. Aqui estão as principais categorias de serviços do Microsoft Azure e suas funcionalidades.
+### Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab no Microsoft Azure Essentials, fornecido pela DIO. Aqui estão as principais categorias de serviços do Microsoft Azure e suas funcionalidades.
 
 
 ### 1. **Computação**
